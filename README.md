@@ -6,7 +6,7 @@ In this repository, you'll find:
 
 HR_Analytics_Dashboard.xlsx: The Excel file containing the interactive HR analytics dashboard. Explore attrition trends, employee demographics, engagement levels, and more through intuitive visualizations.
 
-HR ANALYTICS RESEACRH PAPER: A comprehensive research paper detailing the methodologies, findings, and implications of our HR analytics project. Dive deep into the data-driven strategies driving organizational excellence.
+HR ANALYTICS RESEARCH PAPER: A comprehensive research paper detailing the methodologies, findings, and implications of our HR analytics project. Dive deep into the data-driven strategies driving organizational excellence.
 
 **Features**
 Attrition Analysis: Dive deep into attrition trends across different demographics, job roles, and departments.
